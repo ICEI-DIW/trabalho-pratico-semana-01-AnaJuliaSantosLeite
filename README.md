@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Ana Júlia Santos Leite
+Matricula: 885573
 
 ## Tela de inspeção com navegador
-
+![alt text](<Captura de Tela (1).png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Captura de Tela (13).png>)
